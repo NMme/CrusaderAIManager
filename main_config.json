@@ -1,0 +1,9 @@
+{
+  "root_dir": ".",
+  "single_character_dir": "./data/character_mods",
+  "base_mod_dir": "./data/mod_base",
+  "vanilla_dir": "./data/mod_base/vanilla",
+  "out_dir": "./data/output",
+  "installed_base_mods": ["vanilla/vanilla.json", "UCP-AI-Patch/ucp-ai-patch.json"],
+  "installed_mods": ["robin_hood_mod/robinhood.json"]
+}

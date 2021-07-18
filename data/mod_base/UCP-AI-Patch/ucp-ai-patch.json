@@ -1,0 +1,7 @@
+{
+  "BaseModName": "UCP-AI-Patch",
+  "AIC": "ucp-ai-patch_aic.json",
+  "AIV": "../aivs/EvreyFixed",
+  "Troops": "UCP-StartingTroops-Patch.json",
+  "Assets": ""
+}

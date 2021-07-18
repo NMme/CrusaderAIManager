@@ -1,0 +1,8 @@
+{
+  "BaseModName": "Vanilla",
+  "AIC": "vanilla_aic.json",
+  "AIV": "vanilla_aiv.json",
+  "Goods": "vanilla_goods.json",
+  "Troops": "vanilla_troops.json",
+  "Assets": "vanilla_assets.json"
+}

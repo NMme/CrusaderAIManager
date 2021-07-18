@@ -1,0 +1,162 @@
+{
+  "Abbot": {
+    "Abbot1": "Abbot1.aiv",
+    "Abbot2": "Abbot2.aiv",
+    "Abbot3": "Abbot3.aiv",
+    "Abbot4": "Abbot4.aiv",
+    "Abbot5": "Abbot5.aiv",
+    "Abbot6": "Abbot6.aiv",
+    "Abbot7": "Abbot7.aiv",
+    "Abbot8": "Abbot8.aiv"
+  },
+  "Caliph": {
+    "caliph1": "caliph1.aiv",
+    "caliph2": "caliph2.aiv",
+    "caliph3": "caliph3.aiv",
+    "caliph4": "caliph4.aiv",
+    "caliph5": "caliph5.aiv",
+    "caliph6": "caliph6.aiv",
+    "caliph7": "caliph7.aiv",
+    "caliph8": "caliph8.aiv"
+  },
+  "Emir": {
+    "Emir1": "Emir1.aiv",
+    "Emir2": "Emir2.aiv",
+    "Emir3": "Emir3.aiv",
+    "Emir4": "Emir4.aiv",
+    "Emir5": "Emir5.aiv",
+    "Emir6": "Emir6.aiv",
+    "Emir7": "Emir7.aiv",
+    "Emir8": "Emir8.aiv"
+  },
+  "Frederick": {
+    "frederick1": "frederick1.aiv",
+    "frederick2": "frederick2.aiv",
+    "frederick3": "frederick3.aiv",
+    "frederick4": "frederick4.aiv",
+    "frederick5": "frederick5.aiv",
+    "frederick6": "frederick6.aiv",
+    "frederick7": "frederick7.aiv",
+    "frederick8": "frederick8.aiv"
+  },
+  "Marshall": {
+    "marshal1": "marshal1.aiv",
+    "marshal2": "marshal2.aiv",
+    "marshal3": "marshal3.aiv",
+    "marshal4": "marshal4.aiv",
+    "marshal5": "marshal5.aiv",
+    "marshal6": "marshal6.aiv",
+    "marshal7": "marshal7.aiv",
+    "marshal8": "marshal8.aiv"
+  },
+  "Nazir": {
+    "Nizar1": "Nizar1.aiv",
+    "Nizar2": "Nizar2.aiv",
+    "Nizar3": "Nizar3.aiv",
+    "Nizar4": "Nizar4.aiv",
+    "Nizar5": "Nizar5.aiv",
+    "Nizar6": "Nizar6.aiv",
+    "Nizar7": "Nizar7.aiv",
+    "Nizar8": "Nizar8.aiv"
+  },
+  "Pig": {
+    "pig1": "pig1.aiv",
+    "pig2": "pig2.aiv",
+    "pig3": "pig3.aiv",
+    "pig4": "pig4.aiv",
+    "pig5": "pig5.aiv",
+    "pig6": "pig6.aiv",
+    "pig7": "pig7.aiv",
+    "pig8": "pig8.aiv"
+  },
+  "Phillip": {
+    "phillip1": "phillip1.aiv",
+    "phillip2": "phillip2.aiv",
+    "phillip3": "phillip3.aiv",
+    "phillip4": "phillip4.aiv",
+    "phillip5": "phillip5.aiv",
+    "phillip6": "phillip6.aiv",
+    "phillip7": "phillip7.aiv",
+    "phillip8": "phillip8.aiv"
+  },
+  "Richard": {
+    "richard1": "richard1.aiv",
+    "richard2": "richard2.aiv",
+    "richard3": "richard3.aiv",
+    "richard4": "richard4.aiv",
+    "richard5": "richard5.aiv",
+    "richard6": "richard6.aiv",
+    "richard7": "richard7.aiv",
+    "richard8": "richard8.aiv"
+  },
+  "Rat": {
+    "rat1": "rat1.aiv",
+    "rat2": "rat2.aiv",
+    "rat3": "rat3.aiv",
+    "rat4": "rat4.aiv",
+    "rat5": "rat5.aiv",
+    "rat6": "rat6.aiv",
+    "rat7": "rat7.aiv",
+    "rat8": "rat8.aiv"
+  },
+  "Saladin": {
+    "saladin1": "saladin1.aiv",
+    "saladin2": "saladin2.aiv",
+    "saladin3": "saladin3.aiv",
+    "saladin4": "saladin4.aiv",
+    "saladin5": "saladin5.aiv",
+    "saladin6": "saladin6.aiv",
+    "saladin7": "saladin7.aiv",
+    "saladin8": "saladin8.aiv"
+  },
+  "Sheriff": {
+    "sheriff1": "sheriff1.aiv",
+    "sheriff2": "sheriff2.aiv",
+    "sheriff3": "sheriff3.aiv",
+    "sheriff4": "sheriff4.aiv",
+    "sheriff5": "sheriff5.aiv",
+    "sheriff6": "sheriff6.aiv",
+    "sheriff7": "sheriff7.aiv",
+    "sheriff8": "sheriff8.aiv"
+  },
+  "Snake": {
+    "snake1": "snake1.aiv",
+    "snake2": "snake2.aiv",
+    "snake3": "snake3.aiv",
+    "snake4": "snake4.aiv",
+    "snake5": "snake5.aiv",
+    "snake6": "snake6.aiv",
+    "snake7": "snake7.aiv",
+    "snake8": "snake8.aiv"
+  },
+  "Sultan": {
+    "Sultan1": "Sultan1.aiv",
+    "Sultan2": "Sultan2.aiv",
+    "Sultan3": "Sultan3.aiv",
+    "Sultan4": "Sultan4.aiv",
+    "Sultan5": "Sultan5.aiv",
+    "Sultan6": "Sultan6.aiv",
+    "Sultan7": "Sultan7.aiv",
+    "Sultan8": "Sultan8.aiv"
+  },
+  "Wazir": {
+    "wazir1": "wazir1.aiv",
+    "wazir2": "wazir2.aiv",
+    "wazir3": "wazir3.aiv",
+    "wazir4": "wazir4.aiv",
+    "wazir5": "wazir5.aiv",
+    "wazir6": "wazir6.aiv",
+    "wazir7": "wazir7.aiv",
+    "wazir8": "wazir8.aiv"
+  },
+  "Wolf": {
+    "wolf1": "wolf1.aiv",
+    "wolf2": "wolf2.aiv",
+    "wolf3": "wolf3.aiv",
+    "wolf4": "wolf4.aiv",
+    "wolf5": "wolf5.aiv",
+    "wolf6": "wolf6.aiv",
+    "wolf7": "wolf7.aiv",
+    "wolf8": "wolf8.aiv"
+  }
+}

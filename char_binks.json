@@ -1,0 +1,242 @@
+{
+  "Abbot": {
+    "prefix": "abbot",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 0,
+      "angry": 1,
+      "confident": 1,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 0,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Caliph": {
+    "prefix": "bad_arab",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Emir": {
+    "prefix": "emir",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 0,
+      "angry": 1,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Frederick": {
+    "prefix": "fred",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Marshall": {
+    "prefix": "ma",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 0,
+      "angry": 1,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Nazir": {
+    "prefix": "nazir",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 0,
+      "angry": 1,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Pig": {
+    "prefix": "pg",
+    "numerate_files": 1,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 0,
+      "nervous": 0,
+      "taunt": 2,
+      "taunting": 0,
+      "plead": 2,
+      "vict": 3
+    }
+  },
+  "Phillip": {
+    "prefix": "philip",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Richard": {
+    "prefix": "richard",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 0,
+      "taunting": 1,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Rat": {
+    "prefix": "rt",
+    "numerate_files": 1,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 0,
+      "nervous": 0,
+      "taunt": 2,
+      "taunting": 0,
+      "plead": 3,
+      "vict": 2
+    }
+  },
+  "Saladin": {
+    "prefix": "saladin",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 0,
+      "angry": 1,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 0,
+      "taunting": 1,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Sheriff": {
+    "prefix": "sheriff",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Snake": {
+    "prefix": "sn",
+    "numerate_files": 1,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 0,
+      "nervous": 0,
+      "taunt": 2,
+      "taunting": 0,
+      "plead": 2,
+      "vict": 2
+    }
+  },
+  "Sultan": {
+    "prefix": "sultan",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Wazir": {
+    "prefix": "vizir",
+    "numerate_files": 0,
+    "actions": {
+      "anger": 0,
+      "angry": 1,
+      "confident": 0,
+      "natural": 1,
+      "nervous": 1,
+      "taunt": 1,
+      "taunting": 0,
+      "plead": 0,
+      "vict": 0
+    }
+  },
+  "Wolf": {
+    "prefix": "wf",
+    "numerate_files": 1,
+    "actions": {
+      "anger": 1,
+      "angry": 0,
+      "confident": 0,
+      "natural": 0,
+      "nervous": 0,
+      "taunt": 2,
+      "taunting": 0,
+      "plead": 2,
+      "vict": 2
+    }
+  }
+}

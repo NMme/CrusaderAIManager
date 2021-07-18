@@ -1,0 +1,162 @@
+{
+  "Abbot": {
+    "Abbot1": "aiv/Abbot1.aiv",
+    "Abbot2": "aiv/Abbot2.aiv",
+    "Abbot3": "aiv/Abbot3.aiv",
+    "Abbot4": "aiv/Abbot4.aiv",
+    "Abbot5": "aiv/Abbot5.aiv",
+    "Abbot6": "aiv/Abbot6.aiv",
+    "Abbot7": "aiv/Abbot7.aiv",
+    "Abbot8": "aiv/Abbot8.aiv"
+  },
+  "Caliph": {
+    "caliph1": "aiv/caliph1.aiv",
+    "caliph2": "aiv/caliph2.aiv",
+    "caliph3": "aiv/caliph3.aiv",
+    "caliph4": "aiv/caliph4.aiv",
+    "caliph5": "aiv/caliph5.aiv",
+    "caliph6": "aiv/caliph6.aiv",
+    "caliph7": "aiv/caliph7.aiv",
+    "caliph8": "aiv/caliph8.aiv"
+  },
+  "Emir": {
+    "Emir1": "aiv/Emir1.aiv",
+    "Emir2": "aiv/Emir2.aiv",
+    "Emir3": "aiv/Emir3.aiv",
+    "Emir4": "aiv/Emir4.aiv",
+    "Emir5": "aiv/Emir5.aiv",
+    "Emir6": "aiv/Emir6.aiv",
+    "Emir7": "aiv/Emir7.aiv",
+    "Emir8": "aiv/Emir8.aiv"
+  },
+  "Frederick": {
+    "frederick1": "aiv/frederick1.aiv",
+    "frederick2": "aiv/frederick2.aiv",
+    "frederick3": "aiv/frederick3.aiv",
+    "frederick4": "aiv/frederick4.aiv",
+    "frederick5": "aiv/frederick5.aiv",
+    "frederick6": "aiv/frederick6.aiv",
+    "frederick7": "aiv/frederick7.aiv",
+    "frederick8": "aiv/frederick8.aiv"
+  },
+  "Marshall": {
+    "marshal1": "aiv/marshal1.aiv",
+    "marshal2": "aiv/marshal2.aiv",
+    "marshal3": "aiv/marshal3.aiv",
+    "marshal4": "aiv/marshal4.aiv",
+    "marshal5": "aiv/marshal5.aiv",
+    "marshal6": "aiv/marshal6.aiv",
+    "marshal7": "aiv/marshal7.aiv",
+    "marshal8": "aiv/marshal8.aiv"
+  },
+  "Nazir": {
+    "Nizar1": "aiv/Nizar1.aiv",
+    "Nizar2": "aiv/Nizar2.aiv",
+    "Nizar3": "aiv/Nizar3.aiv",
+    "Nizar4": "aiv/Nizar4.aiv",
+    "Nizar5": "aiv/Nizar5.aiv",
+    "Nizar6": "aiv/Nizar6.aiv",
+    "Nizar7": "aiv/Nizar7.aiv",
+    "Nizar8": "aiv/Nizar8.aiv"
+  },
+  "Pig": {
+    "pig1": "aiv/pig1.aiv",
+    "pig2": "aiv/pig2.aiv",
+    "pig3": "aiv/pig3.aiv",
+    "pig4": "aiv/pig4.aiv",
+    "pig5": "aiv/pig5.aiv",
+    "pig6": "aiv/pig6.aiv",
+    "pig7": "aiv/pig7.aiv",
+    "pig8": "aiv/pig8.aiv"
+  },
+  "Phillip": {
+    "phillip1": "aiv/phillip1.aiv",
+    "phillip2": "aiv/phillip2.aiv",
+    "phillip3": "aiv/phillip3.aiv",
+    "phillip4": "aiv/phillip4.aiv",
+    "phillip5": "aiv/phillip5.aiv",
+    "phillip6": "aiv/phillip6.aiv",
+    "phillip7": "aiv/phillip7.aiv",
+    "phillip8": "aiv/phillip8.aiv"
+  },
+  "Richard": {
+    "richard1": "aiv/richard1.aiv",
+    "richard2": "aiv/richard2.aiv",
+    "richard3": "aiv/richard3.aiv",
+    "richard4": "aiv/richard4.aiv",
+    "richard5": "aiv/richard5.aiv",
+    "richard6": "aiv/richard6.aiv",
+    "richard7": "aiv/richard7.aiv",
+    "richard8": "aiv/richard8.aiv"
+  },
+  "Rat": {
+    "rat1": "aiv/rat1.aiv",
+    "rat2": "aiv/rat2.aiv",
+    "rat3": "aiv/rat3.aiv",
+    "rat4": "aiv/rat4.aiv",
+    "rat5": "aiv/rat5.aiv",
+    "rat6": "aiv/rat6.aiv",
+    "rat7": "aiv/rat7.aiv",
+    "rat8": "aiv/rat8.aiv"
+  },
+  "Saladin": {
+    "saladin1": "aiv/saladin1.aiv",
+    "saladin2": "aiv/saladin2.aiv",
+    "saladin3": "aiv/saladin3.aiv",
+    "saladin4": "aiv/saladin4.aiv",
+    "saladin5": "aiv/saladin5.aiv",
+    "saladin6": "aiv/saladin6.aiv",
+    "saladin7": "aiv/saladin7.aiv",
+    "saladin8": "aiv/saladin8.aiv"
+  },
+  "Sheriff": {
+    "sheriff1": "aiv/sheriff1.aiv",
+    "sheriff2": "aiv/sheriff2.aiv",
+    "sheriff3": "aiv/sheriff3.aiv",
+    "sheriff4": "aiv/sheriff4.aiv",
+    "sheriff5": "aiv/sheriff5.aiv",
+    "sheriff6": "aiv/sheriff6.aiv",
+    "sheriff7": "aiv/sheriff7.aiv",
+    "sheriff8": "aiv/sheriff8.aiv"
+  },
+  "Snake": {
+    "snake1": "aiv/snake1.aiv",
+    "snake2": "aiv/snake2.aiv",
+    "snake3": "aiv/snake3.aiv",
+    "snake4": "aiv/snake4.aiv",
+    "snake5": "aiv/snake5.aiv",
+    "snake6": "aiv/snake6.aiv",
+    "snake7": "aiv/snake7.aiv",
+    "snake8": "aiv/snake8.aiv"
+  },
+  "Sultan": {
+    "Sultan1": "aiv/Sultan1.aiv",
+    "Sultan2": "aiv/Sultan2.aiv",
+    "Sultan3": "aiv/Sultan3.aiv",
+    "Sultan4": "aiv/Sultan4.aiv",
+    "Sultan5": "aiv/Sultan5.aiv",
+    "Sultan6": "aiv/Sultan6.aiv",
+    "Sultan7": "aiv/Sultan7.aiv",
+    "Sultan8": "aiv/Sultan8.aiv"
+  },
+  "Wazir": {
+    "wazir1": "aiv/wazir1.aiv",
+    "wazir2": "aiv/wazir2.aiv",
+    "wazir3": "aiv/wazir3.aiv",
+    "wazir4": "aiv/wazir4.aiv",
+    "wazir5": "aiv/wazir5.aiv",
+    "wazir6": "aiv/wazir6.aiv",
+    "wazir7": "aiv/wazir7.aiv",
+    "wazir8": "aiv/wazir8.aiv"
+  },
+  "Wolf": {
+    "wolf1": "aiv/wolf1.aiv",
+    "wolf2": "aiv/wolf2.aiv",
+    "wolf3": "aiv/wolf3.aiv",
+    "wolf4": "aiv/wolf4.aiv",
+    "wolf5": "aiv/wolf5.aiv",
+    "wolf6": "aiv/wolf6.aiv",
+    "wolf7": "aiv/wolf7.aiv",
+    "wolf8": "aiv/wolf8.aiv"
+  }
+}
