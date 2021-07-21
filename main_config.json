@@ -1,5 +1,7 @@
 {
   "root_dir": ".",
+  "crusader_dir": "",
+  "ucp_dir": "",
   "single_character_dir": "./data/character_mods",
   "base_mod_dir": "./data/mod_base",
   "vanilla_dir": "./data/mod_base/vanilla",
